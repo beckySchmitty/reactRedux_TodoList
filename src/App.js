@@ -1,14 +1,12 @@
-import './App.css';
 import React from "react";
-import { useSelector, useDispatch } from "react-redux";
+import TodoList from "./TodoList";
 
 
 function App() {
   return (
     <div className="App">
       <h1>TODOS</h1>
-      // todoForm
-      {todos}
+      <TodoList/>
     </div>
   );
 }

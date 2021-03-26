@@ -23,7 +23,7 @@ function NewTodoForm({createTodo}) {
           type="text"
           onChange={handleChange}
           value={task} />
-        <button>Add todo!</button>
+        <button>Add!</button>
       </form>
     </div>
   );
