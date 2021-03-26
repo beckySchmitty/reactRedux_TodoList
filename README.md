@@ -1,4 +1,4 @@
 # React/Redux Todo List
 
-x
+Practicing redux by making a todo list (no styling yet).
 
